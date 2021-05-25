@@ -1,7 +1,252 @@
 .body-all {
     font-family: 'Varela Round', sans-serif;
-    background-color: #E8E6E6;
-    margin: 0px;
-    padding: 0px;
+    background-color: #ff0000;
+    margin: 0;
+    padding: 0;
 }
-/* A vous de faire votre propre feuille de styles en dessous !! */
+.RedCarre {
+    position: absolute ;
+    margin-top: -5px;
+    width: 100%;
+    padding: 0 0 0 0;
+    background: #ff0000;
+}
+.mixers{
+    margin-right: -70px;
+    float: right;
+
+}
+.blackCare {
+    position: absolute;
+    margin-top: 200px;
+    width: 100%;
+    padding: 0 0 0 0;
+    background: #000000;
+    text-align: center;
+}
+#MEGA{
+    margin-top: 70px;
+    float: left;
+    margin-left: -70px;
+    font-weight: bold;
+    font-size: 40px;
+}
+#MIXER{
+    float: right;
+    margin-top: 70px;
+    margin-right: 780px;
+    font-weight: bold;
+    font-size: 40px;
+}
+.buttonSelect{
+    display: inline-block;
+    background-color: #ff0000;
+    border-radius: 4px;
+    border: 4px double #cccccc;
+    color: #eeeeee;
+    font-size: 28px;
+    padding: 20px;
+    width: 100px;
+    cursor: pointer;
+    margin-left: 340px;
+    margin-top: 40px;
+    float: left;
+    position: absolute;
+
+}
+.buttonPlacer{
+    display: inline-block;
+    background-color: #ff0000;
+    border-radius: 10px;
+    border: 4px double #cccccc;
+    color: #eeeeee;
+    font-size: 28px;
+    padding: 20px;
+    width: 100px;
+    cursor: pointer;
+    margin-left: -400px;
+    float: left;
+    margin-top: 15px;
+    position: absolute;
+}
+.BoutonInitialisers{
+    display: inline-block;
+    background-color: #ff0000;
+    border-radius: 10px;
+    border: 4px double #cccccc;
+    color: #eeeeee;
+    font-size: 28px;
+    padding: 20px;
+    width: 100px;
+    cursor: pointer;
+    margin-left: 0px;
+    float: left;
+    margin-top: 15px;
+    position: absolute;
+}
+.button1{
+    display: inline-block;
+    background-color: #ff0000;
+    border-radius: 10px;
+    border: 4px double #cccccc;
+    color: #eeeeee;
+    font-size: 28px;
+    padding: 20px;
+    width: 150px;
+    height: 200px;
+    cursor: pointer;
+    margin-left: 410px;
+    float: left;
+    margin-top: 400px;
+    position: absolute;
+}
+.button2{
+    display: inline-block;
+    background-color: #ff0000;
+    border-radius: 10px;
+    border: 4px double #cccccc;
+    color: #eeeeee;
+    font-size: 28px;
+    padding: 20px;
+    width: 150px;
+    height: 200px;
+    cursor: pointer;
+    margin-left: 615px;
+    float: left;
+    margin-top: 400px;
+    position: absolute;
+}
+.button3{
+    display: inline-block;
+    background-color: #ff0000;
+    border-radius: 10px;
+    border: 4px double #cccccc;
+    color: #eeeeee;
+    font-size: 28px;
+    padding: 20px;
+    width: 150px;
+    height: 200px;
+    cursor: pointer;
+    margin-left: 820px;
+    float: left;
+    margin-top: 400px;
+    position: absolute;
+}
+.button4{
+    display: inline-block;
+    background-color: #f12b2b;
+    border-radius: 10px;
+    border: 4px double #cccccc;
+    color: #eeeeee;
+    font-size: 28px;
+    padding: 20px;
+    width: 150px;
+    height: 200px;
+    cursor: pointer;
+    margin-left: 1025px;
+    float: left;
+    margin-top: 400px;
+    position: absolute;
+}
+.button5{
+    display: inline-block;
+    background-color: #ff0000;
+    border-radius: 10px;
+    border: 4px double #cccccc;
+    color: #fffcfc;
+    font-size: 28px;
+    padding: 20px;
+    width: 150px;
+    height: 200px;
+    cursor: pointer;
+    margin-left: 1230px;
+    float: left;
+    margin-top: 400px;
+    position: absolute;
+}
+.button6 {
+    display: inline-block;
+    background-color: #ff0000;
+    border-radius: 10px;
+    border: 4px double #cccccc;
+    color: #eeeeee;
+    font-size: 28px;
+    padding: 20px;
+    width: 150px;
+    height: 200px;
+    cursor: pointer;
+    margin-left: 410px;
+    float: left;
+    margin-top: 650px;
+    position: absolute;
+}
+.button7{
+    display: inline-block;
+    background-color: #ff0000;
+    border-radius: 10px;
+    border: 4px double #cccccc;
+    color: #eeeeee;
+    font-size: 28px;
+    padding: 20px;
+    width: 150px;
+    height: 200px;
+    cursor: pointer;
+    margin-left: 615px;
+    float: left;
+    margin-top: 650px;
+    position: absolute;
+}
+.button8{
+    display: inline-block;
+    background-color: #ff0000;
+    border-radius: 10px;
+    border: 4px double #cccccc;
+    color: #eeeeee;
+    font-size: 28px;
+    padding: 20px;
+    width: 150px;
+    height: 200px;
+    cursor: pointer;
+    margin-left: 820px;
+    float: left;
+    margin-top: 650px;
+    position: absolute;
+}
+.button9{
+    display: inline-block;
+    background-color: #ff0000;
+    border-radius: 10px;
+    border: 4px double #cccccc;
+    color: #eeeeee;
+    font-size: 28px;
+    padding: 20px;
+    width: 150px;
+    height: 200px;
+    cursor: pointer;
+    margin-left: 1025px;
+    float: left;
+    margin-top: 650px;
+    position: absolute;
+}
+.button10{
+    display: inline-block;
+    background-color: #ff0000;
+    border-radius: 10px;
+    border: 4px double #cccccc;
+    color: #eeeeee;
+    font-size: 28px;
+    padding: 20px;
+    width: 150px;
+    height: 200px;
+    cursor: pointer;
+    margin-left: 1230px;
+    float: left;
+    margin-top: 650px;
+    position: absolute;
+}
+.prenom{
+    font-size: 20px;
+}
+.nom{
+    font-size: 30px;
+}
