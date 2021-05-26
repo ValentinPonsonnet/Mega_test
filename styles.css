@@ -1,8 +1,8 @@
 .body-all {
     font-family: 'Varela Round', sans-serif;
     background-color: #ff0000;
-    margin: 0px;
-    padding: 0px;
+    margin: 20px;
+    padding: 20px;
 }
 .Fond {
     text-align: center;
@@ -13,19 +13,16 @@
 }
 .Bgblack {
     background-color: #000000;
-    padding-top: 20px;
+    padding-top: 10px;
+    text-align: center;
+    height: 75px;
 }
-.REINITIALISER{
+.liste{
+    display: inline-block;
+}
+.Carte{
 
 }
-.DEROULANT{
-    height: 20px;
-    width: 100px;
-    margin: -20px -50px;
-    position:relative;
-    top:50%;
-    left:60%;
-}
-.PLACER{
+.Encadrer{
 
 }
